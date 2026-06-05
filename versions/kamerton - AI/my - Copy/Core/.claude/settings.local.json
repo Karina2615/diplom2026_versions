@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"C:\\\\Users\\\\karin\\\\OneDrive\\\\Desktop\\\\new_diplom\\\\kamerton - Copy \\(4\\)\\\\my - Copy\\\\Core\" -type f \\\\\\( -name \"*.c\" -o -name \"*.h\" \\\\\\) -exec wc -l {} +)",
+      "Bash(grep -E \"\\\\.\\(c|h\\)$\")"
+    ]
+  }
+}

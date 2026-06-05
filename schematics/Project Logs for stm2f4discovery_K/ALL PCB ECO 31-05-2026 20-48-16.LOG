@@ -1,0 +1,34 @@
+Added Component: Designator=DD7(ESP)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=DD7-1
+Added Pin To Net: NetName=NetC61_1 Pin=DD7-2
+Added Pin To Net: NetName=3V3 Pin=DD7-3
+Added Pin To Net: NetName=3V3 Pin=DD7-4
+Added Pin To Net: NetName=NetC62_1 Pin=DD7-5
+Added Pin To Net: NetName=NetC62_2 Pin=DD7-6
+Added Pin To Net: NetName=NetC64_2 Pin=DD7-7
+Added Pin To Net: NetName=NetC64_1 Pin=DD7-8
+Added Pin To Net: NetName=CHIP_PU Pin=DD7-9
+Added Pin To Net: NetName=3V3 Pin=DD7-19
+Added Pin To Net: NetName=GPIO0 Pin=DD7-23
+Added Pin To Net: NetName=ESP_TX Pin=DD7-25
+Added Pin To Net: NetName=3V3 Pin=DD7-26
+Added Pin To Net: NetName=ESP_RX Pin=DD7-27
+Added Pin To Net: NetName=SHD Pin=DD7-28
+Added Pin To Net: NetName=SWP Pin=DD7-29
+Added Pin To Net: NetName=SCS Pin=DD7-30
+Added Pin To Net: NetName=CLK Pin=DD7-31
+Added Pin To Net: NetName=SDO Pin=DD7-32
+Added Pin To Net: NetName=SDI Pin=DD7-33
+Added Pin To Net: NetName=3V3 Pin=DD7-37
+Added Pin To Net: NetName=TX Pin=DD7-40
+Added Pin To Net: NetName=RX Pin=DD7-41
+Added Pin To Net: NetName=3V3 Pin=DD7-43
+Added Pin To Net: NetName=XTAL_N Pin=DD7-44
+Added Pin To Net: NetName=XTAL_P Pin=DD7-45
+Added Pin To Net: NetName=3V3 Pin=DD7-46
+Added Pin To Net: NetName=NetC41_1 Pin=DD7-47
+Added Pin To Net: NetName=NetC41_2 Pin=DD7-48
+Added Pin To Net: NetName=GND Pin=DD7-49
+Added Member To Class: ClassName=ALL Member=Component DD7 * *

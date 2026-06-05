@@ -1,0 +1,9 @@
+microphone.c:102:6:MIC_Init	8	static
+microphone.c:134:6:MIC_Start	8	static
+microphone.c:143:6:MIC_Stop	8	static
+microphone.c:148:7:MIC_GetFrequency	4	static
+microphone.c:149:7:MIC_IsSignalValid	4	static
+microphone.c:154:6:MIC_Process	240	static
+microphone.c:268:13:Process_Half	24	static
+microphone.c:293:6:HAL_I2S_RxHalfCpltCallback	16	static
+microphone.c:300:6:HAL_I2S_RxCpltCallback	16	static

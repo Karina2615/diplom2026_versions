@@ -1,0 +1,9 @@
+flash_recorder.c:30:6:FLASH_REC_Init	16	static
+flash_recorder.c:36:6:FLASH_REC_IsSlotUsed	16	static
+flash_recorder.c:42:9:FLASH_REC_GetUsedSlots	4	static
+flash_recorder.c:47:6:FLASH_REC_IsFull	4	static
+flash_recorder.c:52:9:FLASH_REC_GetLastSavedSlot	4	static
+flash_recorder.c:57:16:FLASH_REC_GetSlotDataPtr	16	static
+flash_recorder.c:64:10:FLASH_REC_GetSlotSampleCount	16	static
+flash_recorder.c:83:6:FLASH_REC_SaveFromRecorder	56	static
+flash_recorder.c:144:6:FLASH_REC_EraseAll	32	static

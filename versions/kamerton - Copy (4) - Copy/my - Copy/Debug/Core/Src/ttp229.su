@@ -1,0 +1,8 @@
+ttp229.c:23:20:ttp_delay_us	24	static,ignoring_inline_asm
+ttp229.c:37:17:ttp_read_raw	24	static
+ttp229.c:68:6:TTP229_Init	8	static
+ttp229.c:85:6:TTP229_Update	16	static
+ttp229.c:96:9:TTP229_IsPressed	16	static
+ttp229.c:102:9:TTP229_JustPressed	24	static
+ttp229.c:109:9:TTP229_JustReleased	24	static
+ttp229.c:116:10:TTP229_GetRaw	4	static

@@ -1,0 +1,11 @@
+waveplayer.c:113:20:AUDIO_PLAYER_Init	8	static
+waveplayer.c:126:20:AUDIO_PLAYER_Start	24	static
+waveplayer.c:143:20:AUDIO_PLAYER_Process	40	static
+waveplayer.c:175:20:AUDIO_PLAYER_Stop	8	static
+waveplayer.c:181:20:AUDIO_PLAYER_SetVolume	16	static
+waveplayer.c:187:6:AUDIO_PLAYER_SetPreset	16	static
+waveplayer.c:199:6:AUDIO_PLAYER_NoteChange	4	static
+waveplayer.c:207:6:AUDIO_PLAYER_SetSilence	16	static
+waveplayer.c:215:6:AUDIO_OUT_TransferComplete_CallBack	4	static
+waveplayer.c:220:6:AUDIO_OUT_HalfTransfer_CallBack	4	static
+waveplayer.c:235:13:Generate_Wave	72	static

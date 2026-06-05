@@ -1,0 +1,11 @@
+main_joy_mic_test.c:64:13:lcd_row	40	static
+main_joy_mic_test.c:73:17:mic_amplitude	32	static
+main_joy_mic_test.c:94:13:amp_bar	24	static
+main_joy_mic_test.c:105:5:main	136	static
+main_joy_mic_test.c:245:6:SystemClock_Config	88	static
+main_joy_mic_test.c:272:13:MX_GPIO_Init	40	static
+main_joy_mic_test.c:306:13:MX_I2C1_Init	40	static
+main_joy_mic_test.c:333:13:MX_DMA_Init	16	static
+main_joy_mic_test.c:357:13:MX_ADC2_Init	32	static
+main_joy_mic_test.c:390:13:MX_ADC1_Init	16	static
+main_joy_mic_test.c:410:6:Error_Handler	16	static,ignoring_inline_asm

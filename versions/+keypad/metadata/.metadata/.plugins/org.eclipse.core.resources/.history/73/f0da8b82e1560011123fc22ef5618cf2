@@ -1,0 +1,4 @@
+/* main - Copy.c  — OLD VERSION, excluded from build.
+ * This file is intentionally left empty to prevent duplicate symbol errors.
+ * The active main is Core/Src/main.c
+ */

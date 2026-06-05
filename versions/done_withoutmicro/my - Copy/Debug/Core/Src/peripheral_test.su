@@ -1,0 +1,13 @@
+peripheral_test.c:35:13:leds_off	8	static
+peripheral_test.c:40:13:leds_on	16	static
+peripheral_test.c:47:13:lrow	40	static
+peripheral_test.c:54:13:lrowf	52	static
+peripheral_test.c:86:13:joy_init	8	static
+peripheral_test.c:94:13:joy_tick	24	static
+peripheral_test.c:123:13:kbd_init	8	static
+peripheral_test.c:131:13:kbd_tick	104	static
+peripheral_test.c:172:13:mic_init	8	static
+peripheral_test.c:188:13:mic_tick	48	static
+peripheral_test.c:227:13:sd_init	664	static
+peripheral_test.c:316:13:sd_tick	8	static
+peripheral_test.c:332:6:PeripheralTest_Run	40	static

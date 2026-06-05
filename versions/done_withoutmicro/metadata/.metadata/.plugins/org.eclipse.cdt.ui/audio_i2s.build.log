@@ -1,0 +1,10 @@
+15:02:03 **** Incremental Build of configuration Debug for project audio_i2s ****
+make -j8 all 
+arm-none-eabi-size   audio_i2s.elf 
+   text	   data	    bss	    dec	    hex	filename
+  87480	  64336	 115704	 267520	  41500	audio_i2s.elf
+Finished building: default.size.stdout
+ 
+
+15:02:04 Build Finished. 0 errors, 0 warnings. (took 571ms)
+

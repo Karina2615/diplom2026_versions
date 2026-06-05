@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=5V Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=NetHL5_3 Pin=R30-3

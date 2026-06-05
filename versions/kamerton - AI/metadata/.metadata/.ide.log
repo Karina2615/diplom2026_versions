@@ -1,0 +1,21 @@
+2025-12-03 20:11:00,898 [INFO] Activator:177 - 
+
+
+2025-12-03 20:11:00,901 [INFO] Activator:178 - !SESSION log4j initialized
+2025-12-03 20:11:03,831 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2025-12-03 20:19:47,182 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1037207288 uses a null category that is invalid in its context. The option was ignored.
+2025-12-03 20:19:47,229 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.847415041 uses a null category that is invalid in its context. The option was ignored.
+2025-12-11 22:33:55,500 [INFO] Activator:177 - 
+
+
+2025-12-11 22:33:55,502 [INFO] Activator:178 - !SESSION log4j initialized
+2025-12-11 22:33:56,918 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1037207288 uses a null category that is invalid in its context. The option was ignored.
+2025-12-11 22:33:57,942 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.847415041 uses a null category that is invalid in its context. The option was ignored.
+2025-12-11 22:34:05,928 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2025-12-13 23:21:11,076 [INFO] Activator:177 - 
+
+
+2025-12-13 23:21:11,091 [INFO] Activator:178 - !SESSION log4j initialized
+2025-12-13 23:21:11,861 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1037207288 uses a null category that is invalid in its context. The option was ignored.
+2025-12-13 23:21:12,435 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.847415041 uses a null category that is invalid in its context. The option was ignored.
+2025-12-13 23:21:17,625 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
