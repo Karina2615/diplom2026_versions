@@ -1,0 +1,9 @@
+ttp229.c:27:20:dly	24	static,ignoring_inline_asm
+ttp229.c:42:17:raw_read	16	static
+ttp229.c:56:6:TTP229_Init	8	static
+ttp229.c:63:6:TTP229_Update	16	static
+ttp229.c:74:10:TTP229_IsPressed	16	static
+ttp229.c:75:10:TTP229_JustPressed	24	static
+ttp229.c:80:10:TTP229_JustReleased	24	static
+ttp229.c:85:10:TTP229_GetRaw	4	static
+ttp229.c:86:10:TTP229_GetScanCount	4	static
