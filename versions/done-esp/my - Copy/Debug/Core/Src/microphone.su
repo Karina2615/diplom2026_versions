@@ -1,0 +1,11 @@
+microphone.c:104:6:MIC_Init	4	static
+microphone.c:111:6:MIC_Start	8	static
+microphone.c:131:6:MIC_Stop	8	static
+microphone.c:142:8:MIC_GetFrequency	4	static
+microphone.c:143:9:MIC_IsSignalValid	4	static
+microphone.c:145:16:MIC_GetBuffer	16	static
+microphone.c:156:13:Process_Half	24	static
+microphone.c:191:6:MIC_Service	24	static,ignoring_inline_asm
+microphone.c:211:6:MIC_Process	224	static
+microphone.c:308:6:HAL_ADC_ConvHalfCpltCallback	16	static
+microphone.c:314:6:HAL_ADC_ConvCpltCallback	16	static

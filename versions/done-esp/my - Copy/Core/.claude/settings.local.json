@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"C:\\\\Users\\\\karin\\\\OneDrive\\\\Desktop\\\\new_diplom\\\\kamerton - Copy \\(4\\)\\\\my - Copy\\\\Core\" -type f \\\\\\( -name \"*.c\" -o -name \"*.h\" \\\\\\) -exec wc -l {} +)",
+      "Bash(grep -E \"\\\\.\\(c|h\\)$\")",
+      "Bash(awk '{print $5, $9}')",
+      "Bash(find \"C:\\\\Users\\\\karin\\\\OneDrive\\\\Desktop\\\\new_diplom\\\\kamerton - Copy \\(4\\)\\\\my - Copy\\\\Core\" -type f \\\\\\( -name \"*.c\" -o -name \"*.h\" \\\\\\) -exec ls -lh {} \\\\;)",
+      "Bash(awk '{print $5, $NF}')",
+      "WebFetch(domain:www.silabs.com)",
+      "Bash(mkdir -p \"C:/Users/karin/OneDrive/Desktop/new_diplom/kamerton - Copy \\(4\\)/my - Copy/esp32_bt_bridge\")",
+      "Bash(Get-ChildItem -Recurse \"C:\\\\Users\\\\karin\\\\OneDrive\\\\Desktop\\\\new_diplom\\\\kamerton - AI\\\\my - Copy\")",
+      "Bash(Select-Object FullName, Length)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(extract-text \"C:\\\\Users\\\\karin\\\\Downloads\\\\Telegram Desktop\\\\ЗВІТ з практики_Рянський.docx\")",
+      "Bash(pandoc \"C:\\\\Users\\\\karin\\\\Downloads\\\\Telegram Desktop\\\\ЗВІТ з практики_Рянський.docx\" -t markdown)",
+      "Bash(extract-text \"C:\\\\Users\\\\karin\\\\Downloads\\\\реферат.docx\")",
+      "Bash(pandoc \"C:\\\\Users\\\\karin\\\\Downloads\\\\реферат.docx\" -t markdown)",
+      "Bash(python3 /home/user/claude/scripts/office/unpack.py \"C:\\\\Users\\\\karin\\\\Downloads\\\\реферат.docx\" /tmp/referat_unpacked/)",
+      "Bash(python3 /home/user/claude/scripts/office/unpack.py \"C:\\\\Users\\\\karin\\\\Downloads\\\\Telegram Desktop\\\\ЗВІТ з практики_Рянський.docx\" /tmp/zvit_unpacked/)",
+      "Bash(cd /tmp)",
+      "Bash(unzip -o \"/mnt/c/Users/karin/Downloads/реферат.docx\" word/document.xml -d referat_unpacked)",
+      "Bash(ls /mnt/c/Users/karin/Downloads/ 2>&1 | head -30)",
+      "WebSearch",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\karin\\\\OneDrive\\\\Desktop\\\\kamerton - AI\\\\my - Copy\" -Recurse -Force | Select-Object -Property FullName | ForEach-Object { $_.FullName })",
+      "Read(//c/Users/karin/OneDrive/Desktop/new_diplom/kamerton - Copy \\(4\\)/my - Copy/**)",
+      "Bash(dir \"C:\\\\Users\\\\karin\\\\OneDrive\\\\Desktop\\\\new_diplom\\\\kamerton - Copy \\(4\\)\\\\my - Copy\")",
+      "Bash(gh api *)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(dir \"C:\\\\Users\\\\karin\\\\OneDrive\\\\Desktop\\\\new_diplom\\\\versions\\\\+keypad\\\\Core\\\\Src\")",
+      "Bash(find \"C:/Users/karin/OneDrive/Desktop/new_diplom\" -maxdepth 3 -type d 2>/dev/null | head -60)",
+      "WebFetch(domain:www.digikey.com)",
+      "Bash(diff -u \"C:/Users/karin/OneDrive/Desktop/diplom2026_versions/versions/+keypad/my - Copy/Core/Inc/ttp229.h\" \"C:/Users/karin/OneDrive/Desktop/new_diplom/kamerton - Copy \\(4\\)/my - Copy/Core/Inc/ttp229.h\" && echo \"=== ttp229.h IDENTICAL ===\" || echo \"=== ttp229.h DIFFERS \\(see above\\) ===\")",
+      "Bash(ls -dt \"/c/Users/karin/OneDrive/Desktop/new_diplom\"/*/ 2>/dev/null; echo \"----VERSIONS----\"; ls -dt \"/c/Users/karin/OneDrive/Desktop/diplom2026_versions/versions\"/*/ 2>/dev/null)"
+    ]
+  }
+}

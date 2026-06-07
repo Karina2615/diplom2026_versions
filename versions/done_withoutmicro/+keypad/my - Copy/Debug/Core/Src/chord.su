@@ -1,7 +1,0 @@
-chord.c:100:13:chord_lpf	24	static
-chord.c:120:14:goertzel	56	static
-chord.c:141:6:CHORD_Init	8	static
-chord.c:164:6:CHORD_FeedSamples	24	static
-chord.c:175:6:CHORD_Process	112	static
-chord.c:302:15:CHORD_GetResult	24	static
-chord.c:304:6:CHORD_GetPCMagnitudes	24	static
