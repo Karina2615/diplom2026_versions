@@ -1,0 +1,8 @@
+sampler.c:39:13:wav_fill_header	16	static
+sampler.c:71:13:pad_path	16	static
+sampler.c:76:16:pad_exists	328	static
+sampler.c:84:13:ensure_samples_dir	8	static
+sampler.c:89:9:Sampler_PlayPad	56	static
+sampler.c:121:6:Sampler_Init	24	static
+sampler.c:132:6:Sampler_Update	120	static
+sampler.c:250:6:Sampler_FillAudio	32	static

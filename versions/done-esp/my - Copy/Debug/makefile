@@ -69,8 +69,8 @@ all: main-build
 main-build: audio_i2s.elf secondary-outputs
 
 # Tool invocations
-audio_i2s.elf: $(OBJS) $(USER_OBJS) C:\Users\karin\OneDrive\Desktop\new_diplom\kamerton\ -\ Copy\ (4)\my\ -\ Copy\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "audio_i2s.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\karin\OneDrive\Desktop\new_diplom\kamerton - Copy (4)\my - Copy\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="audio_i2s.map" -Wl,--gc-sections -static -L../Middlewares/ST/STM32_Audio/Addons/PDM/Lib --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+audio_i2s.elf: $(OBJS) $(USER_OBJS) C:\Users\karin\OneDrive\Desktop\diplom2026_versions\versions\done-esp\my\ -\ Copy\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "audio_i2s.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\karin\OneDrive\Desktop\diplom2026_versions\versions\done-esp\my - Copy\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="audio_i2s.map" -Wl,--gc-sections -static -L../Middlewares/ST/STM32_Audio/Addons/PDM/Lib --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

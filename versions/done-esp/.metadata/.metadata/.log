@@ -1,0 +1,19 @@
+!SESSION 2026-06-07 21:28:33.794 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  C:\Users\karin\OneDrive\Desktop\diplom2026_versions\versions\done-esp\my - Copy\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\karin\OneDrive\Desktop\diplom2026_versions\versions\done-esp\my - Copy\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-06-07 21:28:48.407
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-06-07 21:28:48.450
+!MESSAGE Log4j initialized with config file C:\Users\karin\OneDrive\Desktop\diplom2026_versions\versions\done-esp\.metadata\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-06-07 21:28:51.051
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-06-07 21:28:59.582
+!MESSAGE Indexed 'audio_i2s' (60 sources, 224 headers) in 5.81 sec: 20,949 declarations; 103,956 references; 7 unresolved inclusions; 1,671 syntax errors; 2,087 unresolved names (1.6%)

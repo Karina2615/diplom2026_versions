@@ -1,7 +1,0 @@
-joystick.c:35:17:adc2_read	32	static
-joystick.c:51:6:Joystick_Init	16	static
-joystick.c:75:6:Joystick_Update	24	static
-joystick.c:113:12:Joystick_GetEvent	16	static
-joystick.c:120:9:Joystick_IsPressed	8	static
-joystick.c:125:10:Joystick_GetX	4	static
-joystick.c:126:10:Joystick_GetY	4	static

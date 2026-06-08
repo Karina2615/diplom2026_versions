@@ -1,0 +1,8 @@
+note_seq.c:21:13:find_next_fname	368	static
+note_seq.c:37:6:NSeq_Init	8	static
+note_seq.c:47:6:NSeq_Scan	1032	static
+note_seq.c:115:9:NSeq_GetCount	4	static
+note_seq.c:117:21:NSeq_GetEntry	16	static
+note_seq.c:123:6:NSeq_Save	664	static
+note_seq.c:151:6:NSeq_Load	672	static
+note_seq.c:175:6:NSeq_Delete	80	static
