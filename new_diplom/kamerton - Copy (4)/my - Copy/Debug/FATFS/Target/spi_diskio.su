@@ -1,0 +1,15 @@
+spi_diskio.c:25:23:spi_tx	32	static
+spi_diskio.c:32:20:spi_rx_buf	24	static
+spi_diskio.c:38:20:spi_tx_buf	536	static
+spi_diskio.c:77:6:SPI_ResetInit	4	static
+spi_diskio.c:87:13:sd_deselect	8	static
+spi_diskio.c:93:16:sd_wait_ready	24	static
+spi_diskio.c:102:16:sd_select	8	static
+spi_diskio.c:112:16:sd_cmd	24	static
+spi_diskio.c:142:16:sd_read_datablock	24	static
+spi_diskio.c:155:16:sd_write_datablock	24	static
+spi_diskio.c:171:16:SPI_Initialize	40	static
+spi_diskio.c:260:16:SPI_GetStatus	16	static
+spi_diskio.c:266:16:SPI_Read	32	static
+spi_diskio.c:300:16:SPI_Write	32	static
+spi_diskio.c:334:16:SPI_Ioctl	56	static
